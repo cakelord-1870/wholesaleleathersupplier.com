@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleleathersupplier.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleleathersupplier.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleleathersupplier.com/collections/popular-items-for-skull-trend.atom"/>
+  <title>WholesaleLeatherSupplier.com</title>
+  <updated>2019-06-16T12:05:07-04:00</updated>
+  <author>
+    <name>WholesaleLeatherSupplier.com</name>
+  </author>
+  <entry>
+    <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+    <published>2019-06-16T12:05:07-04:00</published>
+    <updated>2019-06-16T12:05:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleleathersupplier.com/products/afonie-carnival-skull-women-t-shirts"/>
+    <title>AFONiE Carnival Skull Women T-Shirts</title>
+    <s:type>Women&apos;s T-shirts</s:type>
+    <s:vendor>AFONiE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0943/8496/products/unnamed_16.jpg?v=1579897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AFONiE<br>
+        <strong>Type: </strong>Women&#39;s T-shirts<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3.3 oz 100% Ringspun cotton</li>
+<li>Available Sizes: S - XL</li>
+<li>New Longer Length</li>
+<li>Seamed rib knit collar</li>
+<li>Cover seamed full neck</li>
+<li>Short set-in cap sleeves</li>
+<li>Two-needle hemmed sleeves &amp; bottom</li>
+<li>Printed in the USA</li>
+<li>Machine Wash Cold, Tumble Dry</li>
+</ul>
+<p>Size Guide:</p>
+<p>S: chest: 38"; length: 28"; sleeves: 8"</p>
+<p>M: chest: 40"; length: 28"; sleeves: 8"</p>
+<p>L: chest: 42"; length: 30.5"; sleeves: 8"</p>
+<p>XL: chest: 46"; length: 30.5"; sleeves: 9"</p><br>
+<p>★ Nice Gift for any occasion! Full refund within 30 days. Buy with confidence! If our product fails to impress you MONEY BACK GUARANTEE - if for any reason you're not 100% SATISFIED, let us know and our customer service team will make things right: full refund or a free replacement of our premium product whichever you prefer. GUARANTEED QUALITY with hassle-free return or exchange;<br>★ ★★★★★LIMITED EDITION<br>★ ★★★★★LIMITED TIME - <strong>FREE SHIPPING</strong> for free shipping *<strong>While supplies last</strong> use COUPON 'SHIPFREE'<br>★ ★★★★★ <strong>HURRY!</strong> You better act before they run out. Click the <strong>ADD TO CART</strong> button to enter your exclusive <strong>'SHIPFREE'</strong> coupon code and this durable piece of fashion will be on the way to you!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Women&apos;s T-shirts</s:tag>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-BK-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-BK-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-BK-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-BK-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-RED-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Red / Medium</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-RED-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-RED-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Red / X-Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-RED-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Green / Small</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-GN-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Green / Medium</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-GN-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Green / Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-GN-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Green / X-Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-GN-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Turquoise / Small</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-TQ-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Turquoise / Medium</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-TQ-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Turquoise / Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-TQ-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>Turquoise / X-Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-TQ-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>White / Small</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-WH-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>White / Medium</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-WH-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>White / Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-WH-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/3710644846645</id>
+      <title>White / X-Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-SS-W-CRSKL-W-WH-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleleathersupplier.com/products/1602427715637</id>
+    <published>2019-04-05T09:00:10-04:00</published>
+    <updated>2019-04-05T09:00:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleleathersupplier.com/products/afonie-skull-stamped-rfid-technology-men-wallet"/>
+    <title>AFONiE Skull Stamped RFID Technology Men Wallet</title>
+    <s:type>Men&apos;s Wallet</s:type>
+    <s:vendor>WholesaleLeatherSupplier.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0943/8496/products/53HTCBK_SKULL.jpg?v=1579897561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WholesaleLeatherSupplier.com<br>
+        <strong>Type: </strong>Men&#39;s Wallet<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>RFID Credit Cards Protect, Debit Cards, ID Cards from electronic pickpocketing</li>
+<li>Genuine Leather</li>
+<li>Bifold Wallet</li>
+<li>11 Credit Card Slots,</li>
+<li>ID Window</li>
+<li>2 Bill Compartments</li>
+<li>3.2 inches H x 4.4 inches L x 0.75 inches D approx when closed</li>
+</ul><br>
+<p>● Nice Gift for any occasion! Full refund within 30 days. Buy with confidence! If our product fails to impress you MONEY BACK GUARANTEE - if for any reason you're not 100% SATISFIED, let us know and our customer service team will make things right: full refund or a free replacement of our premium product whichever you prefer. GUARANTEED QUALITY with hassle-free return or exchange;<br>● ★★★★★LIMITED EDITION<br>● ★★★★★LIMITED TIME - <strong>FREE SHIPPING</strong> for free shipping *<strong>While supplies last</strong> use COUPON 'SHIPFREE'<br>● ★★★★★ <strong>HURRY!</strong> You better act before they run out. Click the <strong>ADD TO CART</strong> button to enter your exclusive <strong>'SHIPFREE'</strong> coupon code and this durable piece of fashion will be on the way to you!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s Wallet</s:tag>
+    <s:tag>NOVO</s:tag>
+    <s:tag>RFID</s:tag>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/1602427715637</id>
+      <title>Black</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>53HTC_SKULL-BK</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/1602427715637</id>
+      <title>Brown</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>53HTC_SKULL-BR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleleathersupplier.com/products/1591927472181</id>
+    <published>2019-04-01T19:24:49-04:00</published>
+    <updated>2019-04-01T19:24:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleleathersupplier.com/products/afonie-rfid-rustic-men-wallet-skull-wings-design-craft-stamp"/>
+    <title>AFONiE RFID Rustic Men Wallet-Skull Wings Design Craft Stamp</title>
+    <s:type>Men&apos;s Wallet</s:type>
+    <s:vendor>WholesaleLeatherSupplier.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0943/8496/products/53HTCBK_SKULLNWINGS.jpg?v=1579897552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WholesaleLeatherSupplier.com<br>
+        <strong>Type: </strong>Men&#39;s Wallet<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>RFID Credit Cards Protect, Debit Cards, ID Cards from electronic pickpocketing</li>
+<li>Genuine Leather</li>
+<li>Bifold Wallet</li>
+<li>11 Credit Card Slots,</li>
+<li>ID Window</li>
+<li>2 Bill Compartments</li>
+<li>3.2 inches H x 4.4 inches L x 0.75 inches D approx when closed</li>
+</ul><br>
+<p>● Nice Gift for any occasion! Full refund within 30 days. Buy with confidence! If our product fails to impress you MONEY BACK GUARANTEE - if for any reason you're not 100% SATISFIED, let us know and our customer service team will make things right: full refund or a free replacement of our premium product whichever you prefer. GUARANTEED QUALITY with hassle-free return or exchange;<br>● ★★★★★LIMITED EDITION<br>● ★★★★★LIMITED TIME - <strong>FREE SHIPPING</strong> for free shipping *<strong>While supplies last</strong> use COUPON 'SHIPFREE'<br>● ★★★★★ <strong>HURRY!</strong> You better act before they run out. Click the <strong>ADD TO CART</strong> button to enter your exclusive <strong>'SHIPFREE'</strong> coupon code and this durable piece of fashion will be on the way to you!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s Wallet</s:tag>
+    <s:tag>NOVO</s:tag>
+    <s:tag>RFID</s:tag>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/1591927472181</id>
+      <title>Black</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>53HTC_SKULLNWINGS-BK</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/1591927472181</id>
+      <title>Brown</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>53HTC_SKULLNWINGS-BR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleleathersupplier.com/products/1591925276725</id>
+    <published>2019-04-01T19:23:37-04:00</published>
+    <updated>2019-04-01T19:23:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleleathersupplier.com/products/afonie-rfid-rustic-men-wallet-chain-skull-design-craft-stamp"/>
+    <title>AFONiE RFID Rustic Men Wallet Skull Design Craft Stamp</title>
+    <s:type>Men&apos;s Wallet</s:type>
+    <s:vendor>WholesaleLeatherSupplier.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0943/8496/products/53HTCBK_CHAINSKULL.jpg?v=1579897533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WholesaleLeatherSupplier.com<br>
+        <strong>Type: </strong>Men&#39;s Wallet<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>RFID Credit Cards Protect, Debit Cards and ID Cards from electronic pickpocketing</li>
+<li>Genuine Leather</li>
+<li>Bifold Wallet</li>
+<li>11 Credit Card Slots,</li>
+<li>ID Window</li>
+<li>2 Bill Compartments</li>
+<li>3.2 inches H x 4.4 inches L x 0.75 inches D approx when closed</li>
+</ul><br>
+<p>● Nice Gift for any occasion! Full refund within 30 days. Buy with confidence! If our product fails to impress you MONEY BACK GUARANTEE - if for any reason you're not 100% SATISFIED, let us know and our customer service team will make things right: full refund or a free replacement of our premium product whichever you prefer. GUARANTEED QUALITY with hassle-free return or exchange;<br>● ★★★★★LIMITED EDITION<br>● ★★★★★LIMITED TIME - <strong>FREE SHIPPING</strong> for free shipping *<strong>While supplies last</strong> use COUPON 'SHIPFREE'<br>● ★★★★★ <strong>HURRY!</strong> You better act before they run out. Click the <strong>ADD TO CART</strong> button to enter your exclusive <strong>'SHIPFREE'</strong> coupon code and this durable piece of fashion will be on the way to you!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s Wallet</s:tag>
+    <s:tag>NOVO</s:tag>
+    <s:tag>RFID</s:tag>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/1591925276725</id>
+      <title>Black</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>53HTC_CHAINSKULL-BK</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/1591925276725</id>
+      <title>Brown</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>53HTC_CHAINSKULL-BR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleleathersupplier.com/products/1346186510389</id>
+    <published>2018-07-27T18:28:11-04:00</published>
+    <updated>2018-07-27T18:28:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleleathersupplier.com/products/afonie-skull-biker-leather-bi-fold-men-wallet"/>
+    <title>Skull Biker Leather Bi-Fold Men Wallet</title>
+    <s:type>Wallets</s:type>
+    <s:vendor>WholesaleLeatherSupplier.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0943/8496/products/1146-11.jpg?v=1579898222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WholesaleLeatherSupplier.com<br>
+        <strong>Type: </strong>Wallets<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Genuine Leather</li>
+<li>Bi-fold</li>
+<li>Pocket fit</li>
+<li>9 Credit Card Slots</li>
+<li>I.D. Window</li>
+<li>Divider currency Pocket: Divider</li>
+<li>Hideaway zippered pocket</li>
+<li>Size: 4.5 Inches x 3.5 inches (Folded)</li>
+</ul>
+<p><strong></strong></p><br>
+<p>● Nice Gift for any occasion! Full refund within 30 days. Buy with confidence! If our product fails to impress you MONEY BACK GUARANTEE - if for any reason you're not 100% SATISFIED, let us know and our customer service team will make things right: full refund or a free replacement of our premium product whichever you prefer. GUARANTEED QUALITY with hassle-free return or exchange;<br>● ★★★★★LIMITED EDITION<br>● ★★★★★LIMITED TIME - <strong>FREE SHIPPING</strong> for free shipping *<strong>While supplies last</strong> use COUPON 'SHIPFREE'<br>● ★★★★★ <strong>HURRY!</strong> You better act before they run out. Click the <strong>ADD TO CART</strong> button to enter your exclusive <strong>'SHIPFREE'</strong> coupon code and this durable piece of fashion will be on the way to you!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/1346186510389</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MA-1146-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleleathersupplier.com/products/796093677621</id>
+    <published>2018-07-11T18:07:11-04:00</published>
+    <updated>2018-07-11T18:07:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleleathersupplier.com/products/afonie-skull-design-leather-money-clip"/>
+    <title>Skull Design Leather Money Clip</title>
+    <s:type>Money Clip</s:type>
+    <s:vendor>WholesaleLeatherSupplier.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0943/8496/products/910E-12-3.jpg?v=1579898223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WholesaleLeatherSupplier.com<br>
+        <strong>Type: </strong>Money Clip<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row-fluid row_4 container_24">
+<section id="bodyContent" class="col span9 ">
+<div id="tabvanilla_pinfo" class="widget">
+<div id="description" class="ui-tabs-panel">
+<div class="description">
+<div id="description">
+<ul>
+<li>Made of genuine leather</li>
+<li>Magnetic money clip for safe storage</li>
+<li>USA Skull design</li>
+<li>ID window</li>
+<li>5 credit card slots</li>
+<li>Dimensions: 3 inches x4 Inches</li>
+</ul>
+<p><span>● Nice Gift for any occasion! Full refund within 30 days. Buy with confidence! If our product fails to impress you MONEY BACK GUARANTEE - if for any reason you're not 100% SATISFIED, let us know and our customer service team will make things right: full refund or a free replacement of our premium product whichever you prefer. GUARANTEED QUALITY with hassle-free return or exchange;</span><br><span>● ★★★★★LIMITED EDITION</span><br><span>● ★★★★★LIMITED TIME - </span><strong>FREE SHIPPING</strong><span> for free shipping *</span><strong>While supplies last</strong><span> use COUPON 'SHIPFREE'</span><br><span>● ★★★★★ </span><strong>HURRY!</strong><span> You better act before they run out. Click the </span><strong>ADD TO CART</strong><span> button to enter your exclusive </span><strong>'SHIPFREE'</strong><span> coupon code and this durable piece of fashion will be on the way to you!</span></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Genuine Leather</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Money Clip</s:tag>
+    <s:tag>USA Skull design</s:tag>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/796093677621</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>MA-910E-12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleleathersupplier.com/products/773927731253</id>
+    <published>2018-06-22T11:11:15-04:00</published>
+    <updated>2018-06-22T11:11:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleleathersupplier.com/products/afonie-gold-pvd-skulls-navy-blue-leather-bracelet"/>
+    <title>Gold PVD Skulls Navy Blue Leather Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>WholesaleLeatherSupplier.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0943/8496/products/Bracelet-_SBR-8402-13.jpg?v=1579898908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WholesaleLeatherSupplier.com<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row-fluid row_4 container_24">
+<section id="bodyContent" class="col span9 ">
+<div id="tabvanilla_pinfo" class="widget">
+<div id="description" class="ui-tabs-panel">
+<div class="description">
+<p>Mens Jewelry Cool  Leather Bracelet with Skull Head on both hands</p>
+<p>● Nice Gift for any occasion! Full refund within 30 days. Buy with confidence! If our product fails to impress you MONEY BACK GUARANTEE - if for any reason you're not 100% SATISFIED, let us know and our customer service team will make things right: full refund or a free replacement of our premium product whichever you prefer. GUARANTEED QUALITY with hassle-free return or exchange;<br>● ★★★★★LIMITED EDITION<br>● ★★★★★LIMITED TIME - <strong>FREE SHIPPING</strong> for free shipping *<strong>While supplies last</strong> use COUPON 'SHIPFREE'<br>● ★★★★★ <strong>HURRY!</strong> You better act before they run out. Click the <strong>ADD TO CART</strong> button to enter your exclusive <strong>'SHIPFREE'</strong> coupon code and this durable piece of fashion will be on the way to you!</p>
+</div>
+</div>
+</div>
+</section>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Skull head</s:tag>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/773927731253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>AAB-SBR-8402</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleleathersupplier.com/products/1769825988</id>
+    <published>2015-10-11T23:12:39-04:00</published>
+    <updated>2015-10-11T23:12:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleleathersupplier.com/products/mens-wallets-115-03"/>
+    <title>Sturdy Construction Men&apos;s Wallets Skull Print</title>
+    <s:type>Men&apos;s Wallet</s:type>
+    <s:vendor>AFONiE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0943/8496/products/816_3707bd18-f573-48f0-846a-4dd4d9417bf5.jpg?v=1579898341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AFONiE<br>
+        <strong>Type: </strong>Men&#39;s Wallet<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">Sturdy Construction</span></li>
+<li><span class="a-list-item">Compact design</span></li>
+<li><span class="a-list-item">Plenty of Storage Space</span></li>
+<li><span class="a-list-item">Perfect for Everyday Use<br><br>These wallets are made of sturdy construction and have functionality in mind, as it will provide you with plenty of space for credit cards and cash.  This wallet is built to last and would be a great wallet for anyone!</span></li>
+</ul>
+<p><span class="a-list-item">● Nice Gift for any occasion! Full refund within 30 days. Buy with confidence! If our product fails to impress you MONEY BACK GUARANTEE - if for any reason you're not 100% SATISFIED, let us know and our customer service team will make things right: full refund or a free replacement of our premium product whichever you prefer. GUARANTEED QUALITY with hassle-free return or exchange;<br>● ★★★★★LIMITED EDITION<br>● ★★★★★LIMITED TIME - FREE SHIPPING for free shipping *While supplies last use COUPON 'SHIPFREE'<br>● ★★★★★ HURRY! You better act before they run out. Click the ADD TO CART button to enter your exclusive 'SHIPFREE' coupon code and this durable piece of fashion will be on the way to you!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Women&apos;s Wallets</s:tag>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/1769825988</id>
+      <title>USA</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>115-03 USA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleleathersupplier.com/products/1769825988</id>
+      <title>Skull</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>115-03 Skull</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
